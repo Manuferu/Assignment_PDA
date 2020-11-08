@@ -15,7 +15,7 @@ Within the section A.1 in the script, there is a comparation between the old met
 It has been generated 1000 random numbers by using both methodologies, to analysie the scatter distribution, and the distribution by bins. In this last one, we can observe with 1000 values, the new infrastructure seems to be better distributed than the old one.
 
 
-### Explanation of the use of the “Simple random data” and “Permutations” functions:
+### B) Explanation of the use of the “Simple random data” and “Permutations” functions:
 
 
 
