@@ -17,6 +17,10 @@ It has been generated 1000 random numbers by using both methodologies, to analys
 
 ### B) Explanation of the use of the “Simple random data” and “Permutations” functions:
 
+The first part try to go throughly through each of the simple random data variables. To describe each of the variables, it has been add a print to see what is the output, and a plot to represent distributions:
+
+
+
 
 
 ### Explanation of the use and purpose of five “Distributions” functions:
