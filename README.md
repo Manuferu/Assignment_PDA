@@ -23,7 +23,7 @@ The first part try to go throughly through each of the simple random data variab
 The second part describes the two permutation options numpy.random function provides, which are Shuffle and Permutations. Basically, each of the positions of the array. The only difference it has been noticed is, as demonstrated in Assignment.ipyb file, when it comes to save shuffle function to a variable, it doesnt't allow to meanwhile with permutation it does.
 
 
-### Explanation of the use and purpose of five “Distributions” functions:
+### C) Explanation of the use and purpose of five “Distributions” functions:
 Those are the functions explained in this file:
 -numpy.random.chisquare [7]: it takes 2 variables, which are degrees of freedom and the size (this last one is optional, if no number in size, output is one number). Interesting to see that if we increase the degrees of freedom and the size to very large values, we will get a normal distribution.
 
